@@ -2,7 +2,7 @@
 # Aardvark
 # Canvas Group #44
 
-1 sentence description of repository for people that aren't familiar with the project\
+1 sentence description of repository for people that aren't familiar with the project
 
 Eric Seymour - ess105@pitt.edu - \
 Austin Johnson - amj160@pitt.edu - \
