@@ -2,7 +2,7 @@
 # Aardvark
 # Canvas Group #44
 
-1 sentence description of repository for people that aren't familiar with the project
+This repository contains our project focused on answering the question: What is the best neighborhood in Pittsburgh? Using data from the WPRDC, we focus on general quality of life to support our data-driven claims.
 
 Eric Seymour - ess105@pitt.edu - Crime Submetric
 
