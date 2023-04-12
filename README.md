@@ -19,3 +19,6 @@ Parks, collected by the City of Pittsburgh. It provides hundreds of parks, listi
 
 https://data.wprdc.org/dataset/parks \
 City of Pittsburgh Parks, contains park names, types, as well as their public service divisions.
+
+https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh/resource/6dfd4f8f-cbf5-4917-a5eb-fd07f4403167
+Traffic Count Data in the City of Pittsburgh.
