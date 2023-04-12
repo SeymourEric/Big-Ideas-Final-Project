@@ -14,8 +14,8 @@ Links:\
 https://data.wprdc.org/dataset/uniform-crime-reporting-data/resource/044f2016-1dfd-4ab0-bc1e-065da05fca2e \
 Description of dataset
 
-https://data.wprdc.org/dataset/parks1
+https://data.wprdc.org/dataset/parks1 \
 Parks, collected by the City of Pittsburgh. It provides hundreds of parks, listing various variations of their names, acreage, square footage, maintenance responsibility, and even the type of park.
 
-https://data.wprdc.org/dataset/parks
+https://data.wprdc.org/dataset/parks \
 City of Pittsburgh Parks, contains park names, types, as well as their public service divisions.
